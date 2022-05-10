@@ -1,0 +1,35 @@
+.leftBorder {
+    background-color: royalblue;
+    color: whitesmoke;
+    width: 25%;
+    height: 100vh;
+}
+
+h2, #aboutMe, .standout {
+    text-decoration: underline;
+}
+
+.contactInfo {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.mainInfo {
+    text-align: center;
+}
+
+.standout {
+    font-size: 25px;
+    color: royalblue;
+}
+
+img {
+    height: 250px;
+    border-radius: 50%;
+}
+
+.separate {
+    height: 5px;
+    width: 30px;
+    background-color: whitesmoke;
+}
